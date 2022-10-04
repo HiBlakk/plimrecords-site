@@ -195,26 +195,6 @@
 		</div>
 	</div>
 </section>
-<section class="section sendmail dark">
-	<div class="cnt">
-		<div class="title">
-			<h2>Написать нам<span>.</span></h2>
-			<p>Специализируемся на услугах различных направлений — от проектирования до выращивания вашего бизнеса.</p>
-		</div>
-		<div class="clr">
-			<div class="sendmail-left">
-				<div class="mail-form">
-					<div data-uniform-inline='{"formConfig": "inline"}'>
-						<div class="uf-inline-loading"></div>
-					</div>
-				</div>
-			</div>
-			<div class="sendmail-map">
-			    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2246.115173224988!2d37.503725599017685!3d55.73912781853321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54bfd768331ff%3A0xe4b9c8c70ef68f32!2z0YPQuy4g0JHQsNGA0LrQu9Cw0Y8sIDYg0YHRgtGA0L7QtdC90LjQtSA1LCDQnNC-0YHQutCy0LAsIDEyMTA4Nw!5e0!3m2!1sru!2sru!4v1656149974377!5m2!1sru!2sru" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-			</div>
-		</div>
-	</div>
-</section>
 <section class="section">
 	<div class="cnt">
 		<div class="title">
