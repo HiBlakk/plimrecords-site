@@ -1,0 +1,1 @@
+[item]<div class="catsTd" id="cid1"><a href="{url}" class="catName">{name}</a>  <span class="catNumData">{news-count}</span></div>[/item]

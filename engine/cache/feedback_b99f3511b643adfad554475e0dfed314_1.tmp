@@ -1,0 +1,22 @@
+
+<div class="uf-wrapper-inline">
+	
+	
+	
+	
+		<div class="uf-content">		
+			<div class="row">
+<div class="col-xl-6 col-lg-6 col-md-6">
+<div class="form-group custom-form"><input type="text" name="name" value="" class="subscribe-input  mb-0 " placeholder="Ваше имя"></div>
+</div>
+<div class="col-xl-6 col-lg-6 col-md-6">
+<div class="form-group custom-form"><input type="text" value="" name="phone" class="subscribe-input  mb-0 " placeholder="Ваш телефон"></div>
+</div>
+<div style="margin-bottom:15px;margin-right:3px;"><input type="checkbox" name="f4" value="1" checked> <a href="#" rel="nofollow" target="_blank">Я согласен(а) на обработку персональных данных</a></div>
+<div class="col-xl-12 col-lg-12 custom-form">
+<button class="mail-button" type="submit">Заказать звонок</button>
+</div>
+</div>
+		</div>
+	
+</div>

@@ -1,0 +1,15 @@
+
+<div class="uf-wrapper-inline">
+	
+	
+	
+	
+<div class="uf-content">		
+<input type="text" name="name" value="" class="mail-field subscribe-input  mb-0" placeholder="Ваше имя *">
+<input class="mail-field uf-input uf-input-first" type="text" name="email" placeholder="Ваше e-mail *">
+<textarea class="mail-text uf-input" name="textarea" placeholder="Текст сообщения *"></textarea>
+<div style="margin-bottom:15px;margin-right:3px;"><input type="checkbox" name="f4" value="1" checked> <a href="#" rel="nofollow" target="_blank">Я согласен(а) на обработку персональных данных</a></div>
+<button class="mail-button" type="submit">Отправить сообщение</button>
+</div>
+	
+</div>

@@ -1,0 +1,1 @@
+<h1>{title}<span>.</span></h1>

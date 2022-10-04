@@ -1,0 +1,1 @@
+<a href="{full-link}" class="project"><h3>{title}</h3> <p>{short-story limit="100"}</p>  <div class="img-box"><img src="{image-1}" alt="{title}"></div></a>
