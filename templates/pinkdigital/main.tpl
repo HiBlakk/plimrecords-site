@@ -128,21 +128,6 @@
 		</div>
 	</footer>
 </div>
-<div class="fixed-left-overlay"></div>
-<div class="fixed-left fixed-left-call">
-	<div class="fixed-left-header">Обратный звонок <i class="fixed-left-close las la-times"></i></div>
-	<div class="fixed-left-body">
-		<div class="fixed-left-body-content">
-			<div class="title">
-				<h3>Заказать звонок</h3>
-				<p>Оставьте свои данные в форме ниже и мы свяжемся с вами в ближайшее время</p>
-			</div>
-			<div data-uniform-inline='{"formConfig": "callback"}'>
-				<div class="uf-inline-loading"></div>
-			</div>
-		</div>
-	</div>
-</div>
 <div class="fixed-left fixed-left-search">
 	<div class="fixed-left-header">Поиск <i class="fixed-left-close las la-times"></i></div>
 	<div class="fixed-left-body">
